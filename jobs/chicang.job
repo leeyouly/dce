@@ -1,0 +1,4 @@
+type=command
+command=python -m scrapyd.runner crawl chicang
+env.SCRAPY_PROJECT=dce
+working.dir=/kf/scrapyd

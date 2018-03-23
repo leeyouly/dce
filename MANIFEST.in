@@ -1,0 +1,4 @@
+include install.sh
+include install.bat
+include requirements.txt
+include scrapy.cfg
